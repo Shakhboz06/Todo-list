@@ -16,6 +16,14 @@
     <!-- Вызываем фукнции в событиях -->
     <button @mousemove="CountMinus(false)">Click -!</button>
     <button @mousemove="CountMinus(true)">Click +!</button>
+    <button @mousemove="CountMinus(false)">Click -!</button>
+    <button @mousemove="CountMinus(true)">Click +!</button>
+    <button @mousemove="CountMinus(false)">Click -!</button>
+    <button @mousemove="CountMinus(true)">Click +!</button>
+    <button @mousemove="CountMinus(false)">Click -!</button>
+    <button @mousemove="CountMinus(true)">Click +!</button>
+    <button @mousemove="CountMinus(false)">Click -!</button>
+    <button @mousemove="CountMinus(true)">Click +!</button>
   </div>
 </template>
 
