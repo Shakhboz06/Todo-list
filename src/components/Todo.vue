@@ -26,7 +26,7 @@ export default {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 300px));
   grid-gap: 20px;
-  grid-row-gap: 0;
+  grid-row-gap: ;
   padding: 0 35px;
 }
 .block_todo {
